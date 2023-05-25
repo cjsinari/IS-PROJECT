@@ -1,0 +1,79 @@
+body{
+  background-color:  #7B2E2B;
+}
+nav{
+  width:1550px ;
+  height:50px;
+}
+header.nav{
+  width: 100%;
+  height: 120px;
+  line-height: 75px;
+  padding: 0px 100px ;
+  position: fixed;
+}
+.nav ul{
+
+  float:center;
+}
+.nav li{
+  display: inline-block;
+  list-style: none;
+  
+}
+.nav li a{
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 0px 30px;
+  color: black;
+  text-decoration:none;
+}
+.nav li a:hover{
+  background-color: white;
+}
+/* Style the document container */
+      .document-container{
+        margin:0px;
+        background-color:  #FADBC3;
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      /* Style the table */
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      /* Style the table header */
+      th {
+        background-color: #7B2E2B;
+        color: white;
+        font-weight: bold;
+        text-align: left;
+        padding: 10px;
+      }
+
+      /* Style the table cells */
+      td {
+        border: 2px solid black;
+        padding: 10px;
+      }
+
+      /* Style the delete button */
+      .delete-button {
+        background-color: #e74c3c;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+
+      /* Change the delete button style on hover */
+      .delete-button:hover {
+        background-color: #c0392b;
+      }

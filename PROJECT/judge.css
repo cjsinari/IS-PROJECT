@@ -1,0 +1,350 @@
+body{
+	
+   background-color: #661F20;
+ }
+ nav{
+ 	width:1550px ;
+ 	height:70px;
+ }
+header.nav{
+	width: 100%;
+	height: 120px;
+	line-height: 175px;
+	padding: 0px 100px ;
+	position: fixed;
+	}
+
+
+.logo p{
+ font-size: 30px;
+ font-weight: bold;
+ float: left;
+ text-transform: uppercase;
+ letter-spacing: 1.5px;
+ color:black;
+ cursor: pointer;
+}
+.nav ul{
+
+	float:center;
+}
+.nav li{
+	display: inline-block;
+	list-style: none;
+	
+}
+.nav li a{
+	font-size: 18px;
+	text-transform: uppercase;
+	padding: 0px 30px;
+	color: black;
+	text-decoration:none;
+}
+.nav li a:hover{
+	background-color: white;
+}
+.container{
+	float: left;
+	display: inline-block;
+	width: 200px;
+	height:40px ;
+	background-color: #FADBC3;
+	margin-top: 100px ;
+	margin-left: -280px;
+	
+}
+.container:hover{
+	background-color: white;
+}
+.update{
+	display: inline-block;
+	width: 330px;
+	height:40px ;
+	background-color: #FADBC3;
+	margin-top: 100px ;
+	margin-left: -60px;
+	
+}
+.update:hover{
+background-color: white;
+}
+.container-1{
+	width: 300px;
+	height:40px ;
+	background-color: #FADBC3;
+	margin-top: 90px ;
+	align-items: center;
+	justify-content: center;
+
+}
+form{
+	margin-right: -880px;
+	margin-top: -130px;
+	background:#FADBC3;
+	width: 600px;
+	height: 45px;
+	display: flex;
+	float: right;	
+}
+form input{
+	flex: 1;
+	border: none;
+	outline: none;
+}
+form button{
+	background:#7B2E2B ;
+	padding: 10px 50px;
+	border: none;
+	outline: none;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+form button:hover{
+	background-color: white;
+}
+.container-3{
+	width: 990px;
+	height:900px ;
+	background-color: #FADBC3;
+	margin-top:-100px;
+	margin-bottom:20px;
+	color: black;	
+}
+.container-3 p{
+      font-size: 20px;
+      background-color: #FADBC3;
+}
+.col-1{
+	width: 225px;
+	height:600px;
+	background-color:#DEAB8E;
+	float: left;
+	border: 2px solid black;
+	padding:40px ;
+	margin: 10px;
+}
+}
+.col-1 p{
+	background-color:#FADBC3 ;
+	width: auto;
+	height: 30px;
+	text-align: center;
+}
+.col-2{
+	width: 225px;
+	height:600px;
+	background-color:#DEAB8E;
+	float: left;
+	border: 2px solid black;
+	padding:40px ;
+	margin: 10px;
+}
+
+.col-2 p{
+	background-color:#FADBC3 ;
+	width: auto;
+	height: 30px;
+	text-align: center;
+}
+.col-3{
+	width: 225px;
+	height:600px;
+	background-color:#DEAB8E;
+	float: left;
+	border: 2px solid black;
+	padding:40px ;
+	margin: 10px;
+}
+.col-3 p{
+	background-color:#FADBC3 ;
+	width: auto;
+	height: 30px;
+	text-align: center;
+}
+
+.calender-dialog {
+	float: right;
+  
+  top: 50px;
+  right: 50px;body
+	
+   background-color: #661F20;
+}
+header.nav{
+	width: 100%;
+	height: 120px;
+	line-height: 175px;
+	padding: 0px 100px ;
+	position: fixed;
+	}
+
+
+.logo p{
+ font-size: 30px;
+ font-weight: bold;
+ float: left;
+ text-transform: uppercase;
+ letter-spacing: 1.5px;
+ color:black;
+ cursor: pointer;
+}
+.nav ul{
+
+	float:center;
+}
+.nav li{
+	display: inline-block;
+	list-style: none;
+	
+}
+.nav li a{
+	font-size: 18px;
+	text-transform: uppercase;
+	padding: 0px 30px;
+	color: black;
+	text-decoration:none;
+}
+.nav li a:hover{
+	background-color: white;
+}
+.container{
+	float: left;
+	display: inline-block;
+	width: 200px;
+	height:60px ;
+	background-color: #FADBC3;
+	margin-top: 100px ;
+	margin-left: -280px;
+	
+}
+.container:hover{
+	background-color: white;
+}
+.update{
+	display: inline-block;
+	width: 330px;
+	height:40px ;
+	background-color: #FADBC3;
+	margin-top: 100px ;
+	margin-left: -60px;
+	
+}
+.update:hover{
+background-color: white;
+}
+.container-1{
+	width: 300px;
+	height:40px ;
+	background-color: #FADBC3;
+	margin-top: 90px ;
+	align-items: center;
+	justify-content: center;
+
+}
+form{
+	margin-right: -880px;
+	margin-top: -130px;
+	background:#FADBC3;
+	width: 600px;
+	height: 45px;
+	display: flex;
+	float: right;	
+}
+form input{
+	flex: 1;
+	border: none;
+	outline: none;
+}
+form button{
+	background:#7B2E2B ;
+	padding: 10px 50px;
+	border: none;
+	outline: none;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+form button:hover{
+	background-color: white;
+}
+.container-3{
+	width: 990px;
+	height:900px ;
+	background-color: #DEAB8E;
+	margin-top:-100px;
+	margin-bottom:20px;	
+}
+.container-3 p .ab{
+      font-size: 30px;
+}
+.col{
+	width: 225px;
+	height:600px;
+	background-color: #FADBC3;
+	float: left;
+	border: 2px solid black;
+	padding:40px ;
+	margin: 10px;
+}
+.col p{
+	background-color:#661F20 ;
+	width: auto;
+	height: 30px;
+	text-align: center;
+}
+
+
+.calender-dialog {
+	float: right;
+  background-color: #FADBC3;
+  border: 1px solid #ccc;
+ top: 50px;
+  right: 50px;
+   transform: translateY(-30%);
+  width: 50px;
+  height: 50px;
+  z-index: 9999;
+ 
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #7B2E2B;
+  border-bottom: 1px solid #ccc;
+}
+
+.calendar-header h2 {
+  margin: 0;
+  color: black;
+}
+.calendar-header h2:hover{
+	background-color: white;
+}
+
+
+.calendar-body {
+  padding: 10px;
+  background-color: #DEAB8E;
+}
+.signout-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+ 
+}
+
+.signout-btn a {
+  display: block;
+  padding: 10px;
+  background-color: #FADBC3;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  
+}
+.signout-btn a:hover{
+	background-color: white;
+}
+

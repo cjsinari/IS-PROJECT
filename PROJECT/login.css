@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+
+body{
+    background-color: #8d403d;
+    font-family: 'Lato', sans-serif;
+    ;
+
+    
+}
+
+h1{
+    color: white;
+}
+
+
+
+
+
+.mydiv {
+    overflow: hidden;
+    background-color: #FADBC3;
+    display: flex;
+    justify-content: space-between;
+
+ }
+ 
+    .mydiv a{
+     float: left;
+     color: black;
+     padding: 14px 16px ;
+     text-decoration: none;
+ }
+ 
+ .mydiv a:hover{
+     background-color: #a5615e;
+     color:bisque;    
+ }
+
+
+.image-container{
+    position: relative;
+    width: 80%;
+    height: 100vh;
+    background: url("law scales.jpeg") no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+
+}
+
+ .form{
+    position: absolute;
+    bottom: 140px;
+    width: 32%;
+    height: 370px;
+    border:  1px solid #DEAB8E;
+    border-radius: 25px;
+    padding: 30px;
+    background-color: #DEAB8E;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    
+}
+
+input[type="email"],
+input[type="password"],
+input[type="checkbox"],
+input[type="button"],
+.textarea{
+    width: 100;
+    padding: 10px;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form input[type="submit"]{
+  background-color: #DEAB8E;
+}
+
+.link{
+    color: black;
+}
+
+
+.password{
+float: right;
+}
+
+
+.p3{
+  position: absolute;
+  bottom: 50px;
+}
+  
+.signup{
+    color: black;
+}
+

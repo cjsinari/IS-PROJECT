@@ -1,0 +1,33 @@
+body{
+  background-color: #7B2E2B;
+}
+/* Style the form container */
+      .form-container {
+        background-color: #FADBC3;
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      /* Style the form fields */
+      label, input[type="file"], input[type="submit"] {
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      /* Style the submit button */
+      input[type="submit"] {
+        padding: 10px;
+        background-color: #3498db;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      /* Change the submit button style on hover */
+      input[type="submit"]:hover {
+        background-color: #2980b9;
+      }
